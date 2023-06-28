@@ -7,7 +7,7 @@ Pi_02 Data Analytics MOOC
 <img src=http://www.codlearningtech.org/wp-content/uploads/2015/11/mooc.jpg
 </p>
 
- ## **Mauro Ferrera**
+ ## Mauro Ferrera
 
 
  <hr>  
