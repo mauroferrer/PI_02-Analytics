@@ -76,4 +76,5 @@ Pi_02 Data Analytics MOOC
                                 El analisis graficado de cada plataforma lo pueden ver en el archivo 'Pi_02_PowerBi.pbix' que es un dashboard interactivo
 
 
-#### Gracias por ver!
+#### Gracias por ver!.
+https://www.linkedin.com/in/mauro-ferrera/
