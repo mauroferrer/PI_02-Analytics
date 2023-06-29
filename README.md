@@ -23,8 +23,8 @@ Enlace con el analisis Dashboard y demas archivos del proyecto: https://drive.go
 
 # Paso 1: Hacemos un Analisis EDA(Analisis Exploratorio de lo Datos) de los datasets brindados por la academia Henry:
 ### **Coursera_courses:** Tenemos datos sobre la plataforma Coursera .datos proporcionados por Henry
-### **Coursera_reviews:** Tenemos datos especificando la opinion de las personas que hicieron los cursos en Coursera .datos proporcionados por Henry
-### **edx_courses:** Tenemos datos sobre la plataforma edX, fuente original https://www.kaggle.com/datasets/imuhammad/edx-courses
+### **Coursera_reviews:** Tenemos datos especificando la opinion de las personas que hicieron los cursos en Coursera .datos brindados por Henry
+### **edx_courses:** Tenemos datos sobre la plataforma edX, fuente original: https://www.kaggle.com/datasets/imuhammad/edx-courses
 ### **udemy_courses:** Datos sobre la plataforma Udemy, fuente original: https://www.kaggle.com/datasets/andrewmvd/udemy-courses
 
                      El codigo EDA de estos datasets se puede encontrar en el archivo llamado 'EDA_y_ETL.ipynb'
@@ -35,11 +35,11 @@ Enlace con el analisis Dashboard y demas archivos del proyecto: https://drive.go
  
 ## OBJETIVOS
 
-### **Objetivos en Coursera:** Nuestro objetivo es aumentar en un 20% la cantidad de inscriptos en la plataforma .nuestro KPI nos indica que hay 158,951 inscriptos y el objetivo es llegar a 200,000 .siendo asi que nos faltan 41,049 inscriptos para llegar al objetivo
+### **Objetivos en Coursera:** Nuestro objetivo es aumentar en un 20% la cantidad de inscriptos para el año que viene en la plataforma. Nuestro KPI nos indica que hay 158,951 inscriptos y el objetivo es llegar a 200,000 .siendo asi que nos faltan 41,049 inscriptos para llegar al objetivo
 
 <hr>  
 
-### **Objetivos de edX**: Nuestro objetivo es hacer que 4 millones de estudiantes lleguen hasta el nivel avanzado del curso .nuestro medidor nos indica que hay 3 millones solamente en cursos avanzados de los 45 millones de estudiantes que hay .siendo asi 1 millones de estudiantes que lleguen a nivel avanzado para cumplir con el objetivo
+### **Objetivos de edX**: Nuestro objetivo es hacer que 4 millones de estudiantes lleguen hasta el nivel avanzado del curso para el año proximo .nuestro medidor nos indica que hay 3 millones solamente en cursos avanzados de los 45 millones de estudiantes que hay .siendo asi que faltan 1 millones de estudiantes que lleguen a nivel avanzado para cumplir con el objetivo
 
 <hr>
 
